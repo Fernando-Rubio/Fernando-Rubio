@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fernando-Rubio
 - 👀 I’m interested in learning new development skills
-- 🌱 I’m currently learning Java, HTML, JavaScript, Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, HTML, JavaScript, Python, Scala, Prolog, C, Shell Scripts
 - 📫 How to reach me f.rubio.2018@alumnos.urjc.es
 
 <!---
